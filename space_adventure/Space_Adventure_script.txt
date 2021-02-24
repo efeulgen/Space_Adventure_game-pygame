@@ -1,0 +1,6 @@
+Space Adventure
+
+Human race needs salvation.
+Lunar research facility of InfiniTech, developed a technology that will take the humanity away from the dying planet earth. But the A.I. of the lunar base don't trust the wisdom of humans. 
+
+Arcade style, science-fiction 2D shooter game. A spaceship battles its way through enemy airspace. First it encounters space bugs(light infantry). Then it passes through an asteroid field. Second enemy group consists of space bugs again but there are also heavy-space bugs that launches rockets. After clearing those enemies, it encounters with the final boss; a nuclear spaceship controlled by artificial intelligence Polyphemus. 
